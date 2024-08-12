@@ -9,7 +9,7 @@
 <img
 width="205"
 alt="Capture 1"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-1.png">
+src="![k-link4](https://github.com/user-attachments/assets/7029ed9c-a70c-42ad-a50e-0fb4b04d214d)">
 
 <img
 width="205"
