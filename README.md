@@ -5,8 +5,8 @@
 - **TypeScript supported** 🌞
 
 ## Screenshots
+![k-link (1)](https://github.com/user-attachments/assets/633591dd-ae61-4b77-85f6-495ca16d2189)
 
-![k-link (1)](https://github.com/user-attachments/assets/a4c3dfd3-bf94-4fa3-9768-bef5da21557b)
 
 ## Installation and usage
 
