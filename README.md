@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![k-link](https://github.com/user-attachments/assets/3ce39f65-a737-4ce6-ac57-ea6bef4f5afd)
+![k-link (1)](https://github.com/user-attachments/assets/a4c3dfd3-bf94-4fa3-9768-bef5da21557b)
 
 ## Installation and usage
 
