@@ -3,7 +3,7 @@
 - **Easy to use** 🤘
 - **Made with Expo** ⚡
 - **TypeScript supported** 🌞
-- 
+
 ## Screenshots
 
 <img
