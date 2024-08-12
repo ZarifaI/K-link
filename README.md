@@ -5,12 +5,18 @@
 - **TypeScript supported** 🌞
 
 
-https://github.com/user-attachments/assets/c1172d63-bb3a-42d5-bc46-7d7440269e92
-
-
 ## Screenshots
 ![k-link (3)](https://github.com/user-attachments/assets/ca5e2889-faa9-444c-838c-7b603e0b2f4d)
 
+## Demo 
+<h2>Demo</h2>
+<iframe
+  width="320" <!-- Adjust this width -->
+  height="180" <!-- Adjust this height -->
+  src="https://github.com/user-attachments/assets/c1172d63-bb3a-42d5-bc46-7d7440269e92"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 ## Installation and usage
 
