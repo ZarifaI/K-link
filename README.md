@@ -17,9 +17,6 @@ Real-Time Messaging: Stay connected with your K-College friends through K-Link's
 ## Screenshots
 ![k-link (3)](https://github.com/user-attachments/assets/ca5e2889-faa9-444c-838c-7b603e0b2f4d)
 
-## Demo 
-
-  https://github.com/user-attachments/assets/c1172d63-bb3a-42d5-bc46-7d7440269e92
 ## Installation and usage
 
 Be sure, you have installed all dependencies and applications to run Expo project on your computer : [Getting Started with Expo](https://docs.expo.io/get-started/installation/).
