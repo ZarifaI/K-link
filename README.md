@@ -6,24 +6,7 @@
 
 ## Screenshots
 
-<img
-width="205"
-alt="Capture 1"
-src="![k-link4](https://github.com/user-attachments/assets/7029ed9c-a70c-42ad-a50e-0fb4b04d214d)">
-
-<img
-width="205"
-alt="Capture 2"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-2.png">
-<img
-width="205"
-alt="Capture 3"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-3.png">
-<img
-width="205"
-alt="Capture 4"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-4.png">
-
+![k-link](https://github.com/user-attachments/assets/3ce39f65-a737-4ce6-ac57-ea6bef4f5afd)
 
 ## Installation and usage
 
