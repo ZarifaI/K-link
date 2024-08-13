@@ -22,7 +22,7 @@ export const DIMENSION_HEIGHT = Dimensions.get("window").height;
 export default StyleSheet.create({
   // COMPONENT - CARD ITEM
   containerCardItem: {
-    backgroundColor: BLACK,
+    backgroundColor: WHITE,
     borderRadius: 8,
     alignItems: "center",
     margin: 10,
@@ -30,7 +30,7 @@ export default StyleSheet.create({
     shadowOpacity: 0.05,
     shadowRadius: 10,
     shadowColor: BLACK,
-    shadowOffset: { height: 0, width: 0 },
+    shadowOffset: { height: 4, width: 0 },
   },
   matchesCardItem: {
     marginTop: -35,
@@ -47,13 +47,15 @@ export default StyleSheet.create({
     color: ORANGE,
     textAlign: "center",
   },
+
+  
   status: {
     paddingBottom: 10,
     flexDirection: "row",
     alignItems: "center",
   },
   statusText: {
-    color: WHITE,
+    color: BLACK,
     fontSize: 12,
   },
   online: {
@@ -308,11 +310,14 @@ export default StyleSheet.create({
   },
 
   // MENU
+
   tabButtonText: {
+    
     textTransform: "uppercase",
   },
   iconMenu: {
     alignItems: "center",
+    
   },
 });
 

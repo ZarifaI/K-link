@@ -13,7 +13,7 @@ import IMAGE_10 from "../images/10.jpg";
 const data: DataT[] = [
   {
     id: 1,
-    name: "HELLO",
+    name: "Juliana Smith",
     isOnline: true,
     match: "78",
     description:
@@ -110,7 +110,7 @@ const data: DataT[] = [
       "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
     isOnline: true,
     message:
-      "This is what happens when an unstoppable force meets an immovable object.",
+      "Have you been able to finish your homework.",
     image: IMAGE_09,
   },
   {
@@ -121,7 +121,7 @@ const data: DataT[] = [
       "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
     isOnline: false,
     message:
-      "You want order in Gotham. Batman must take off his mask and turn himself in.",
+      "Do you wanna go to library to study tg?",
     image: IMAGE_10,
   },
 ];

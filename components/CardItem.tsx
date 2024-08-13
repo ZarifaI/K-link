@@ -35,7 +35,7 @@ const CardItem = ({
     {
       paddingTop: hasVariant ? 10 : 15,
       paddingBottom: hasVariant ? 5 : 7,
-      color: "#ffff",
+      color: "#000000",
       fontSize: hasVariant ? 15 : 30,
     },
   ];
